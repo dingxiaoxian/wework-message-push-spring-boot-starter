@@ -3,6 +3,9 @@ package tech.xiaoxian.wework.model.pojo;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import tech.xiaoxian.wework.model.pojo.message.TextMessage;
 
+/**
+ * 请求发送消息的对象
+ */
 public class MessageSendRo {
     @JsonProperty("touser")
     private String toUser;

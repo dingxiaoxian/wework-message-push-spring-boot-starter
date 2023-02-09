@@ -3,7 +3,7 @@ package tech.xiaoxian.wework.model.pojo;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * 获取accessToken请求的返回值
+ * 获取发送信息请求的返回值
  */
 public class MessageSendVo {
     @JsonProperty("errcode")
