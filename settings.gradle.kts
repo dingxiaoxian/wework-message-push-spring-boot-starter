@@ -1,1 +1,1 @@
-rootProject.name = "wework-message-push-spring-boot-starter"
+rootProject.name = extra["projectName"] as String
